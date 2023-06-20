@@ -1,5 +1,5 @@
 # reinforcement-learning
-Math Project on Reinforcement Learning Computations
+Reinforcement Learning Computations for Math Project
 
 by
 Suyash Agrawal
